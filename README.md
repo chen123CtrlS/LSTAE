@@ -1,6 +1,6 @@
 # LSTAE
 
-This repository contains code for our paper "Anchoring Tracker: Long-Short Term Advantage Estimator".<img src="D:\桌面\RL_Reasoning\LSTAE\pics\overview.png" alt="overview" style="zoom:55%;" />
+This repository contains code for our paper "Anchoring Tracker: Long-Short Term Advantage Estimator".<img src="pics\overview.png" alt="overview" style="zoom:55%;" />
 
 ## 🎯 Introduction
 
